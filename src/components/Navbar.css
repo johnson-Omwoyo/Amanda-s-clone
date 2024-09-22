@@ -1,0 +1,49 @@
+.navbar-brand img {
+  height: 52px;
+  
+}
+.mx-md-2 .nav-link {
+  font-weight: 600;
+  color: #333333;
+}
+
+.mx-md-2 .nav-link:hover {
+  color: #737373;
+  width: 100%;
+}
+
+.mx-md-2 {
+  min-width: fit-content;
+}
+
+.navbar-nav .nav-item:hover .mx-md-2 hr {
+  opacity: 1;
+}
+
+.dropdown-item {
+  font-size: 12px;
+}
+.dropdown-item:active {
+  background-color: aliceblue;
+}
+.top-navbar {
+  background-color: #512368;
+}
+.top-navbar p {
+  color: white;
+}
+.vertical-line {
+  width: 1px;
+  background-color: white;
+
+  opacity: 0.4;
+  justify-content: space-around;
+}
+.label {
+  font-size: 10px;
+  font-weight: 600;
+}
+.value {
+  font-size: 11px;
+  font-weight: 300;
+}

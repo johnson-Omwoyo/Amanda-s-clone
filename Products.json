@@ -1,0 +1,64 @@
+{
+  "Products": [
+    {
+      "name": "Baby Car Seat- Black",
+      "category": "Car Seat",
+      "cost": 24500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/04/seat-3-640x800.jpg"
+    },
+    {
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/04/seat2-640x800.jpg",
+      "name": "Baby Car Seat- grey.",
+      "category": "Car Seat",
+      "cost": 24500
+    },
+    {
+      "name": "Baby Carrier.",
+      "category": "Baby Carrier",
+      "cost": 2500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/04/carrier-1.jpg"
+    },
+    {
+      "name": "Baby Carrier.",
+      "category": "Baby Carrier",
+      "cost": 2500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/04/carrier-2.jpg"
+    },
+    {
+      "name": "Baby Feeding Chair – Blue",
+      "category": "Feeding Seat",
+      "cost": 8500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/03/AMANDAS-BABY-SHOP-20-640x800.jpg"
+    },
+    {
+      "name": "Baby Feeding Chair – Pink",
+      "category": "Feeding Seat",
+      "cost": 8500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2023/12/AMANDAS-BABY-SHOP-19-640x800.jpg"
+    },
+    {
+      "name": "Baby stroller",
+      "category": "Stroller",
+      "cost": 40500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2023/12/AMANDAS-BABY-SHOP-6-640x800.jpg"
+    },
+    {
+      "name": "Light weight baby stroller – Grey",
+      "category": "Amanda's Baby Shop Products",
+      "cost": 16500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2024/03/AMANDAS-BABY-SHOP-12-640x800.jpg"
+    },
+    {
+      "name": "Light weight baby strollers – Blue",
+      "category": "Stroller",
+      "cost": 16500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2023/12/AMANDAS-BABY-SHOP-10-640x800.jpg"
+    },
+    {
+      "name": "Lottas Car Seat – Pink",
+      "category": "Car Seat",
+      "cost": 29500,
+      "imageurl": "https://amandas.co.ke/wp-content/uploads/2023/12/AMANDAS-BABY-SHOP-13-640x800.jpg"
+    }
+  ]
+}

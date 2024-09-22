@@ -1,0 +1,72 @@
+.zigzag {
+  color: rgb(249, 159, 28);
+}
+.our-products-title {
+  font-size: 28px;
+  font-weight: 600;
+  color: #512368;
+}
+.item-name {
+  font-weight: 550;
+  color: #512368;
+  cursor: pointer;
+}
+.category {
+  color: grey;
+  cursor: pointer;
+}
+.cost {
+  color: #512368;
+  font-weight: 450;
+  font-size: 14px;
+}
+
+.item-name:hover {
+  color: rgb(249, 159, 28);
+}
+.category:hover {
+  color: rgb(63, 62, 62);
+}
+.card-img-top {
+  cursor: pointer;
+  background-image: url("http://amandas.co.ke/wp-content/uploads/2024/04/seat-3-640x800.jpg");
+  /* transition: opacity 5s; */
+}
+.info h1 {
+  font-weight: 550;
+  font-family: sans-serif;
+  color: #512368;
+}
+
+.info p {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.6;
+}
+.info h4 {
+  font-size: 16px;
+  font-weight: 450;
+}
+/* .bottom-image{
+    background-image:url("")
+
+} */
+
+.logo {
+  max-height: 92px;
+}
+.second-bottom p {
+  font-size: 14px;
+  line-height: 1.8;
+  font-weight: 400;
+  opacity: 0.6;
+}
+.second-bottom h2 {
+  font-size: 18px;
+  font-weight: 450;
+  color: #512368;
+}
+.return {
+  font-size: 14px;
+  font-weight: 400;
+}

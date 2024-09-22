@@ -1,0 +1,20 @@
+.display-4 {
+  background: rgb(254, 236, 210);
+  /* font-size: 64px; */
+  color: #512368;
+  font-family: sans;
+  font-weight: 550;
+}
+.about h3 {
+  color: #512368;
+  font-family: sans;
+  font-weight: 600;
+}
+.about p {
+  font-weight: 400;
+  color: rgb(76, 76, 76);
+  line-height: 1.7;
+}
+.about span {
+  color: #512368;
+}
